@@ -1,0 +1,45 @@
+
+ ** Blog Project 
+1. Using React Fontend 
+2. Tailwind css 
+3. Rest Api Backend 
+
+
+ ** Phase 01:
+1. Create new React app using vite --- ( npm create vite@latest ) ( npm install) ( npm run dev )
+2. Add http Client package Axios --  ( npm i axios ) ( npm i react-axios ) -- Api ke call korar jonno use kora hoi .
+3. Add react router dom --- ( npm i react-router-dom )
+4. Configure tailwind css -- install tailwind css vite (npm install -D tailwindcss postcss autoprefixer) Tailwind css  congigurte korar jonno (npx tailwindcss init -p) 
+
+5. Configure DaisyUi Tailwind css -- ( npm i -D daisyui@latest ) Then add daisyUI to your tailwind.config.js files: (  plugins: [require("daisyui")], )
+
+6. Explore Back-end rest api 
+7. Create react project steucture 
+
+
+ ** Phase 02:
+1. Create Dynamin Navbar By category 
+2. Create Home page Show latest Blog list
+3. Create Blog list category 
+4. create blog Details 
+
+
+ ** Phase 02: 
+1. Deploy the Project live linux Cpanel server 
+
+
+
+
+
+
+
+
+
+ https://documenter.getpostman.com/view/9518923/2s946k6W8p 
+
+
+
+
+
+
+
